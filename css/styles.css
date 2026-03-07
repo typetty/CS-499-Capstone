@@ -35,7 +35,7 @@
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
   /* --bs-primary: #bd5d38; */
-  --bs-primary: rgb(92, 92, 255);
+  --bs-primary: rgb(0, 155, 214);
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -75,8 +75,10 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #bd5d38;
-  --bs-link-hover-color: #974a2d;
+  /* --bs-link-color: #bd5d38; */
+  --bs-link-color: rgb(0, 155, 214);
+  /* --bs-link-hover-color: #974a2d; */
+  --bs-link-hover-color: rgb(92, 92, 255);
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
 }
