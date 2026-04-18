@@ -1,6 +1,6 @@
 # CS-499-Capstone
 
-###Professional Self-assessment
+<h3>Professional Self-assessment</h3>
 
 As a software professional, this ePortfolio has given me a chance to reflect on and refine how I approach software engineering. I completed a code review that shows how I might collaborate with a team to be honest and positive. I also had the chance to create search algorithms, hashing functions, and additions to databases. Although I didn’t have an actual stakeholder to communicate with, I did have my professor give valuable feedback and ensure I was meeting the aims of the software enhancements.
 
